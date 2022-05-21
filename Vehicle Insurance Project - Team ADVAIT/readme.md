@@ -2,6 +2,6 @@
 
 <h4> CREATED A DATABASE FOR VEHICLE INSURANCE COMPANY </h4>
 
-- Keshav Kumar Jha
-- 20bcs070
+- Hemant Dhawale
+- 20bcs058
 - Team 12 - ADVAIT 2.0
